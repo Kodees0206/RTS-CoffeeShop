@@ -1,0 +1,61 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
+  background-image: url('./image.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  position: relative;
+  margin-top: 8%;
+  margin-left: 13%;
+  width: 75%;
+  z-index: 1;
+}
+
+.quote-section {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2; /* Ensure this appears above the background */
+}
+
+.quote-card {
+  width: 300px;
+  margin-top: 20px;
+  background-color: rgba(255, 255, 255, 0.8); /* Slight transparency to show the background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  z-index: 3; /* Ensure this is above the background */
+}
+
+.daily-quote {
+  font-size: 1.2rem;
+  color: #2c3e50;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+
+.order-section {
+  margin-top: 30px;
+  z-index: 2; /* Ensure this appears above the background */
+}
+
+.order-button {
+  background-color: #6c4f3d;
+  color: white;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  z-index: 3; /* Ensure the button appears above the background */
+}
+
+.order-button:hover {
+  background-color: #3e2c1c;
+}

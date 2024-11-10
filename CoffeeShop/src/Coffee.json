@@ -1,0 +1,145 @@
+{
+  "list" : [
+  {
+    "id": 1,
+    "title": "Espresso",
+    "url": "https://cdn.shopify.com/s/files/1/0630/3685/0384/files/Hot_Espresso_Coffee_in_a_transparent_glass_cup.jpg?v=1716979289",
+    "price": 100,
+    "description": "A strong, black coffee brewed by forcing steam through ground coffee beans."
+  },
+  {
+    "id": 2,
+    "title": "Cappuccino",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1rnDrzWTpcunObA1vpcJo1eiaCMdV3QENQw&s",
+    "price": 110,
+    "description": "Espresso with steamed milk foam."
+  },
+  {
+    "id": 3,
+    "title": "Latte",
+    "url": "https://www.allrecipes.com/thmb/Wh0Qnynwdxok4oN0NZ1Lz-wl0A8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9428203-9d140a4ed1424824a7ddd358e6161473.jpg", 
+    "price": 120,
+    "description": "Espresso mixed with steamed milk, topped with a small amount of milk foam."
+  },
+  {
+    "id": 4,
+    "title": "Mocha",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFd44nF-SjgP3xrZiDk1ZryM0kUkTXGlJ4ng&s",
+    "price": 130,
+    "description": "A chocolate-flavored coffee drink made with espresso, hot milk, and cocoa powder."
+  },
+  {
+    "id": 5,
+    "title": "Americano",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjGJviWpMHri-8fLzd48XP6s7fTw_8jo1SUA&s",
+    "price": 135,
+    "description": "Espresso with hot water added to dilute it."
+  },
+  {
+    "id": 6,
+    "title": "Cold Brew",
+    "url": "https://www.thecaffeinebaar.com/cdn/shop/articles/Recipe-_0003_cold_brew_1500x.jpg?v=1636717199",
+    "price": 135,
+    "description": "Coffee brewed with cold water over a long period of time."
+  },
+  {
+    "id": 7,
+    "title": "Iced Coffee",
+    "url": "https://www.pamperedchef.com/iceberg/com/recipe/2132087-lg.jpg",
+    "price": 115,
+    "description": "Chilled coffee served over ice."
+  },
+  {
+    "id": 8,
+    "title": "Macchiato",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_3E2EoO86Il4vKrMPVdpxam-6HBQ6aT98-Q&s",
+    "price": 122,
+    "description": "Espresso with a small amount of steamed milk."
+  },
+  {
+    "id": 9,
+    "title": "Flat White",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1bNjVehuVoM30zr0-T48yje3Mtv-CSJ3Mig&s",
+    "price": 119,
+    "description": "Espresso with steamed milk, smoother than a cappuccino."
+  },
+  {
+    "id": 10,
+    "title": "Irish Coffee",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIfRattjtKqLwZTyS27x6aJrKUr-dSQJeWdw&s",
+    "price": 159,
+    "description": "Coffee mixed with Irish whiskey, sugar, and topped with cream."
+  },
+  {
+    "id": 11,
+    "title": "Affogato",
+    "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipes%2F2020-07-How-to-make-affogato-at-home%2FKitchn_HowTo_Affogato_0281",
+    "price": 175,
+    "description": "Vanilla ice cream topped with a shot of hot espresso."
+  },
+  {
+    "id": 12,
+    "title": "Caramel Latte",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ORnyko76qFbcmANQpzS26J7Jrhb_HIB47g&s",
+    "price": 199,
+    "description": "Espresso with steamed milk, caramel syrup, and topped with whipped cream."
+  },
+  {
+    "id": 13,
+    "title": "Croissant",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR79JmEg0YJry_wAERV2BMENfX13OCs6vNwdg&s",
+    "price": 30,
+    "description": "A buttery, flaky, and golden croissant."
+  },
+  {
+    "id": 14,
+    "title": "Blueberry Muffin",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuQdQathC5zVlVLYlursyhY93PKTGRGpvPxw&s",
+    "price": 45,
+    "description": "A soft, fluffy muffin filled with fresh blueberries."
+  },
+  {
+    "id": 15,
+    "title": "Chocolate Chip Cookie",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoY7zFqNrI_kC73HUZBbmlaOe9YnbNVl4N-w&s",
+    "price": 20,
+    "description": "A classic cookie loaded with chocolate chips."
+  },
+  {
+    "id": 16,
+    "title": "Bagel with Cream Cheese",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZoCc6vdf3VBq_zykO5cljmcUqrz77O9VuWw&s",
+    "price": 50,
+    "description": "A fresh bagel served with cream cheese."
+  },
+  {
+    "id": 17,
+    "title": "Chocolate Croissant",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkHOdmtLRse9tP05Df3vrp-6Vr5hXde7_SaAszcVa4rQsml7Fc0s3j3cQQm0UWMBwHvio&usqp=CAU",
+    "price": 40,
+    "description": "A croissant filled with rich chocolate."
+  },
+  {
+    "id": 18,
+    "title": "Pumpkin Spice Latte",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-IQwiFpA8FWVzMe4tBWTONVdAq9ARbFjaIA&s",
+    "price": 135,
+    "description": "Espresso with steamed milk and pumpkin spice flavor."
+  },
+  {
+    "id": 19,
+    "title": "Matcha Latte",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGWtPrzyApvXV1So996Ps47hPNNVWepasLVQ&s",
+    "price": 90,
+    "description": "A green tea latte made with matcha powder and steamed milk."
+  },
+  {
+    "id": 20,
+    "title": "Chai Latte",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWdn35720Gtu1aOuOhCkkM0Tw_gdbvbZmnVQ&s",
+    "price": 60,
+    "description": "A spiced tea blend with steamed milk."
+  }
+]
+
+}
